@@ -1,3 +1,9 @@
+# Build tools
+setuptools>=65.0.0
+wheel
+cython
+
+
 # Core Framework
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
