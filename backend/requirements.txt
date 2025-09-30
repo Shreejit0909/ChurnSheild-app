@@ -1,8 +1,7 @@
-# Build tools
 setuptools>=65.0.0
 wheel
+build
 cython
-
 
 # Core Framework
 fastapi==0.104.1
