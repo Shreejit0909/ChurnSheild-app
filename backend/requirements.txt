@@ -15,7 +15,7 @@ xgboost==2.0.2
 shap==0.43.0
 
 # Database
-sqlalchemy==2.0.23
+sqlalchemy>=2.0.25
 psycopg2-binary==2.9.9
 alembic==1.12.1
 
