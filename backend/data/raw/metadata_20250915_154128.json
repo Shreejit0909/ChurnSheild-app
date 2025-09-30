@@ -1,0 +1,40 @@
+{
+  "generated_at": "2025-09-15T15:41:29.125141",
+  "total_customers": 10000,
+  "churn_rate": 0.4536,
+  "features": [
+    "customer_id",
+    "signup_date",
+    "tenure_days",
+    "segment",
+    "is_churned",
+    "churn_probability",
+    "monthly_usage",
+    "usage_trend",
+    "features_used",
+    "days_since_last_login",
+    "avg_session_duration",
+    "support_tickets_90d",
+    "avg_resolution_time",
+    "support_satisfaction",
+    "escalated_tickets",
+    "monthly_revenue",
+    "payment_failures_90d",
+    "contract_type",
+    "days_to_renewal",
+    "company_size",
+    "industry",
+    "region",
+    "lifecycle_stage",
+    "usage_intensity",
+    "manual_risk_score",
+    "revenue_per_employee"
+  ],
+  "segments": {
+    "small_business": 4417,
+    "mid_market": 2517,
+    "enterprise": 1550,
+    "startup": 1516
+  },
+  "random_seed": 42
+}

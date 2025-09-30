@@ -1,0 +1,158 @@
+[
+  {
+    "feature": "manual_risk_score",
+    "importance": 0.15105079114437103
+  },
+  {
+    "feature": "avg_resolution_time",
+    "importance": 0.08991535007953644
+  },
+  {
+    "feature": "payment_failures_90d",
+    "importance": 0.08333343267440796
+  },
+  {
+    "feature": "segment_enterprise",
+    "importance": 0.07880173623561859
+  },
+  {
+    "feature": "segment_startup",
+    "importance": 0.05280767008662224
+  },
+  {
+    "feature": "usage_trend",
+    "importance": 0.0465618334710598
+  },
+  {
+    "feature": "support_satisfaction",
+    "importance": 0.03836880624294281
+  },
+  {
+    "feature": "monthly_usage",
+    "importance": 0.03288974240422249
+  },
+  {
+    "feature": "monthly_revenue",
+    "importance": 0.030293814837932587
+  },
+  {
+    "feature": "company_size",
+    "importance": 0.030175041407346725
+  },
+  {
+    "feature": "tenure_days",
+    "importance": 0.02982342429459095
+  },
+  {
+    "feature": "days_since_last_login",
+    "importance": 0.02652064710855484
+  },
+  {
+    "feature": "lifecycle_stage_early",
+    "importance": 0.026278505101799965
+  },
+  {
+    "feature": "support_tickets_90d",
+    "importance": 0.021339284256100655
+  },
+  {
+    "feature": "features_used",
+    "importance": 0.019724102690815926
+  },
+  {
+    "feature": "days_to_renewal",
+    "importance": 0.01547454297542572
+  },
+  {
+    "feature": "lifecycle_stage_veteran",
+    "importance": 0.014693140052258968
+  },
+  {
+    "feature": "escalated_tickets",
+    "importance": 0.014028948731720448
+  },
+  {
+    "feature": "region_Asia Pacific",
+    "importance": 0.013843325898051262
+  },
+  {
+    "feature": "industry_Finance",
+    "importance": 0.013203446753323078
+  },
+  {
+    "feature": "lifecycle_stage_mature",
+    "importance": 0.012820743955671787
+  },
+  {
+    "feature": "usage_intensity",
+    "importance": 0.01276660617440939
+  },
+  {
+    "feature": "industry_Manufacturing",
+    "importance": 0.01263386756181717
+  },
+  {
+    "feature": "region_North America",
+    "importance": 0.011216504499316216
+  },
+  {
+    "feature": "contract_type_annual",
+    "importance": 0.010958109982311726
+  },
+  {
+    "feature": "avg_session_duration",
+    "importance": 0.010818444192409515
+  },
+  {
+    "feature": "industry_Healthcare",
+    "importance": 0.010683411732316017
+  },
+  {
+    "feature": "revenue_per_employee",
+    "importance": 0.010450209490954876
+  },
+  {
+    "feature": "contract_type_multi_year",
+    "importance": 0.010257828049361706
+  },
+  {
+    "feature": "industry_Retail",
+    "importance": 0.009575649164617062
+  },
+  {
+    "feature": "region_Latin America",
+    "importance": 0.009565029293298721
+  },
+  {
+    "feature": "industry_Technology",
+    "importance": 0.009041443467140198
+  },
+  {
+    "feature": "industry_Education",
+    "importance": 0.009037412703037262
+  },
+  {
+    "feature": "contract_type_monthly",
+    "importance": 0.008513187058269978
+  },
+  {
+    "feature": "segment_mid_market",
+    "importance": 0.00838218443095684
+  },
+  {
+    "feature": "region_Europe",
+    "importance": 0.008181216195225716
+  },
+  {
+    "feature": "lifecycle_stage_onboarding",
+    "importance": 0.005970493890345097
+  },
+  {
+    "feature": "segment_small_business",
+    "importance": 0.0
+  },
+  {
+    "feature": "lifecycle_stage_missing",
+    "importance": 0.0
+  }
+]
